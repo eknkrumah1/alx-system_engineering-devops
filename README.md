@@ -1,2 +1,1 @@
-this is my first alx project readme file.
-
+this is the project on  shell permission.
